@@ -1,1 +1,1 @@
-Coming soon! The first EnderOS build should be complied later this year from archiso. please note when EnderOS public builds are released that its beta software and has not been tested in real hardware, if you can use GNOME Boxes to play around with EnderOS
+
