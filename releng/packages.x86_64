@@ -125,6 +125,8 @@ alacritty
 git
 wget
 rclone
+metasploit
+aircrack-ng
 fastfetch
 pipewire
 pipewire-audio
