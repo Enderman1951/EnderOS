@@ -123,6 +123,8 @@ lightdm
 lightdm-gtk-greeter
 alacritty
 git
+wget
+rclone
 fastfetch
 pipewire
 pipewire-audio
