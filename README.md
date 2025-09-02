@@ -1,5 +1,20 @@
 Welcome to EnderOS, a live only portable distro.
 
+Default Desktop Envoirment
+- XFCE
+
+The apps included
+- Alacritty
+- Chromium
+- Vim
+- git
+- wget
+- htop
+- nmap
+- rclone
+- metasploit
+- aircrack-ng
+
 SYSTEM REQUIREMENTS (MINIMUM):
 
 - UEFI Enabled Motherboard (with secure boot turned off)
