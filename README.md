@@ -10,6 +10,7 @@ The apps included
 - git
 - wget
 - htop
+- GNOME Disks
 - nmap
 - rclone
 - metasploit
