@@ -6,7 +6,7 @@ Default Desktop Envoirments
 
 The apps included
 - Alacritty
-- Chromium
+- Firefox (soon)
 - Vim
 - git
 - wget
