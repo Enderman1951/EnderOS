@@ -2,7 +2,7 @@ Welcome to EnderOS, a live only portable distro.
 
 Default Desktop Envoirments
 - XFCE
-- GNOME
+- GNOME (soon)
 
 The apps included
 - Alacritty
