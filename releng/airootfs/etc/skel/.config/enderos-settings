@@ -1,0 +1,80 @@
+[org/gnome/control-center]
+last-panel='power'
+window-state=(980, 640, false)
+
+[org/gnome/desktop/app-folders]
+folder-children=['System', 'Utilities', 'YaST', 'Pardus']
+
+[org/gnome/desktop/app-folders/folders/Pardus]
+categories=['X-Pardus-Apps']
+name='X-Pardus-Apps.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/System]
+apps=['org.gnome.baobab.desktop', 'org.gnome.DiskUtility.desktop', 'org.gnome.Logs.desktop', 'org.freedesktop.MalcontentControl.desktop', 'org.gnome.SystemMonitor.desktop', 'org.gnome.tweaks.desktop']
+name='X-GNOME-Shell-System.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/Utilities]
+apps=['org.gnome.Decibels.desktop', 'org.gnome.Connections.desktop', 'org.gnome.Papers.desktop', 'org.gnome.font-viewer.desktop', 'org.gnome.Loupe.desktop']
+name='X-GNOME-Shell-Utilities.directory'
+translate=true
+
+[org/gnome/desktop/app-folders/folders/YaST]
+categories=['X-SuSE-YaST']
+name='suse-yast.directory'
+translate=true
+
+[org/gnome/desktop/input-sources]
+sources=[('xkb', 'us')]
+
+[org/gnome/desktop/interface]
+color-scheme='prefer-dark'
+enable-hot-corners=false
+toolkit-accessibility=false
+
+[org/gnome/desktop/session]
+idle-delay=uint32 0
+
+[org/gnome/desktop/wm/preferences]
+action-double-click-titlebar='none'
+action-right-click-titlebar='none'
+button-layout='appmenu:minimize,maximize,close'
+num-workspaces=2
+
+[org/gnome/epiphany/state]
+is-maximized=false
+window-size=(1024, 768)
+
+[org/gnome/evolution-data-server]
+migrated=true
+
+[org/gnome/mutter]
+dynamic-workspaces=false
+
+[org/gnome/nautilus/preferences]
+default-folder-viewer='icon-view'
+migrated-gtk-settings=true
+
+[org/gnome/nautilus/window-state]
+initial-size=(890, 550)
+
+[org/gnome/settings-daemon/plugins/color]
+night-light-schedule-automatic=false
+
+[org/gnome/shell]
+welcome-dialog-last-shown-version='49.1'
+
+[org/gnome/shell/world-clocks]
+locations=@av []
+
+[org/gnome/software]
+check-timestamp=int64 1762876223
+first-run=false
+
+[org/gnome/tweaks]
+show-extensions-notice=false
+
+[org/gtk/gtk4/settings/file-chooser]
+show-hidden=true
+sort-directories-first=false
