@@ -26,11 +26,7 @@ name='suse-yast.directory'
 translate=true
 
 [org/gnome/desktop/background]
-color-shading-type='solid'
-picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/gnome/pixel-pusher-l.jxl'
-picture-uri-dark='file:///usr/share/backgrounds/gnome/pixel-pusher-d.jxl'
-primary-color='#967864'
+primary-color='#3071AE'
 secondary-color='#000000'
 
 [org/gnome/desktop/input-sources]
@@ -44,8 +40,8 @@ toolkit-accessibility=false
 [org/gnome/desktop/screensaver]
 color-shading-type='solid'
 picture-options='zoom'
-picture-uri='file:///usr/share/backgrounds/gnome/pixel-pusher-l.jxl'
-primary-color='#967864'
+picture-uri='file:///usr/share/backgrounds/gnome/adwaita-l.jxl'
+primary-color='#3071AE'
 secondary-color='#000000'
 
 [org/gnome/desktop/session]
