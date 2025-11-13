@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=Load EnderOS GNOME Settings
+Exec=/bin/sh -c 'dconf load / < ~/.config/enderos-settings-new'
+X-GNOME-Autostart-enabled=true
+NoDisplay=true
