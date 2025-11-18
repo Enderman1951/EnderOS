@@ -1,21 +1,17 @@
 Welcome to EnderOS, a live only portable distro.
 
-Default Desktop Envoirments
-- XFCE
-- GNOME (soon)
+Default Desktop Envoirment
+- GNOME
 
 The apps included
 - Alacritty
-- Firefox (soon)
+- Firefox
 - Vim
 - git
 - wget
 - htop
 - GNOME Disks
 - nmap
-- rclone
-- metasploit
-- aircrack-ng
 
 SYSTEM REQUIREMENTS (MINIMUM):
 

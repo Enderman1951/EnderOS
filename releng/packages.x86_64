@@ -119,14 +119,10 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
-lightdm
-lightdm-gtk-greeter
+gdm
 alacritty
 git
 wget
-rclone
-metasploit
-aircrack-ng
 fastfetch
 pipewire
 pipewire-audio
