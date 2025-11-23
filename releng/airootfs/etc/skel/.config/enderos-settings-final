@@ -111,16 +111,9 @@ sleep-inactive-ac-type='nothing'
 
 [org/gnome/shell]
 disabled-extensions=@as []
-enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'just-perfection-desktop@just-perfection', 'caffeine@patapon.info', 'dash-to-panel@jderose9.github.com', 'ding@rastersoft.com']
+enabled-extensions=['dash-to-dock@micxgx.gmail.com', 'workspace-indicator@gnome-shell-extensions.gcampax.github.com', 'just-perfection-desktop@just-perfection']
 favorite-apps=['org.gnome.Epiphany.desktop', 'firefox.desktop', 'org.gnome.Nautilus.desktop', 'org.gnome.Software.desktop', 'org.gnome.tweaks.desktop', 'Alacritty.desktop']
 welcome-dialog-last-shown-version='49.1'
-
-[org/gnome/shell/extensions/caffeine]
-cli-toggle=true
-indicator-position-max=1
-restore-state=true
-show-indicator='never'
-user-enabled=true
 
 [org/gnome/shell/extensions/dash-to-dock]
 application-counter-overrides-notifications=false
@@ -144,31 +137,6 @@ show-show-apps-button=false
 show-trash=false
 show-windows-preview=false
 workspace-agnostic-urgent-windows=false
-
-[org/gnome/shell/extensions/dash-to-panel]
-animate-appicon-hover-animation-extent={'RIPPLE': 4, 'PLANK': 4, 'SIMPLE': 1}
-appicon-style='GRAYSCALE'
-dot-position='BOTTOM'
-extension-version=72
-hotkeys-overlay-combo='TEMPORARILY'
-panel-anchors='{"XXX-0x00000000":"MIDDLE"}'
-panel-element-positions='{"XXX-0x00000000":[{"element":"showAppsButton","visible":false,"position":"stackedTL"},{"element":"activitiesButton","visible":false,"position":"stackedTL"},{"element":"leftBox","visible":true,"position":"stackedTL"},{"element":"taskbar","visible":true,"position":"stackedTL"},{"element":"centerBox","visible":true,"position":"stackedTL"},{"element":"rightBox","visible":true,"position":"stackedBR"},{"element":"dateMenu","visible":true,"position":"stackedTL"},{"element":"systemMenu","visible":true,"position":"stackedBR"},{"element":"desktopButton","visible":false,"position":"stackedBR"}]}'
-panel-lengths='{}'
-panel-positions='{"XXX-0x00000000":"TOP"}'
-panel-sizes='{"XXX-0x00000000":32}'
-prefs-opened=false
-stockgs-keep-dash=true
-trans-use-border=false
-window-preview-title-position='TOP'
-
-[org/gnome/shell/extensions/ding]
-add-volumes-opposite=false
-check-x11wayland=true
-dark-text-in-labels=false
-icon-size='tiny'
-show-link-emblem=true
-show-trash=false
-show-volumes=false
 
 [org/gnome/shell/extensions/just-perfection]
 double-super-to-appgrid=false
