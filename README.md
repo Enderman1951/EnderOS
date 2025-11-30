@@ -1,5 +1,7 @@
 Welcome to EnderOS, a live only portable distro.
 
+<img src="https://i.imgur.com/GFrHcoV.png" alt="EnderOS Running">
+
 Default Desktop Envoirment
 - GNOME
 
@@ -9,7 +11,7 @@ The apps included
 - Vim
 - git
 - wget
-- htop
+- btop
 - GNOME Disks
 - nmap
 
