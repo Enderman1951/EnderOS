@@ -8,7 +8,7 @@ Default Desktop Envoirment
 The apps included
 - Alacritty
 - Firefox
-- Vim
+- vim
 - git
 - wget
 - btop
