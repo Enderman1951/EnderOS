@@ -1,3 +1,3 @@
-The original "legacy" EnderOS is discontinued, No more new updates will come.
+EnderOS is a live linux distro based on Arch
 
-You can use [Archiso](https://wiki.archlinux.org/title/Archiso) to build the legacy EnderOS's ISO from source.
+You can use [Archiso](https://wiki.archlinux.org/title/Archiso) to build the EnderOS ISOas of right now
