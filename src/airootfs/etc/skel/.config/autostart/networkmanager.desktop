@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=NetworkManager
+Exec=sudo systemctl start NetworkManager.service
+Icon=network-workgroup
+Comment=Start NetworkManager service on session startup
+X-GNOME-Autostart-enabled=true
+NoDisplay=true

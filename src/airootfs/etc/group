@@ -1,0 +1,5 @@
+root:x:0:root
+adm:x:4:enderos
+wheel:x:10:enderos
+uucp:x:14:enderos
+enderos:x:1000:
