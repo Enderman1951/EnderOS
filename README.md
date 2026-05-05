@@ -1,6 +1,6 @@
 Welcome to EnderOS
 
-<img src="https://i.imgur.com/PI6fx4D.png" alt="EnderOS Running">
+<img src="https://imgur.com/a/TPFuFPe.png" alt="EnderOS Running">
 
 EnderOS is a live, Arch Linux based Linux Distro for users who need a portable, disposable, and privacy-respecting environment. EnderOS is general-purpose: you can code, edit media, take notes, and work in office apps.
 
@@ -13,7 +13,7 @@ By default, EnderOS does not retain any files or session data. To save work, you
 - NAS or remote storage
 
 Default Desktop Envoirment
-- GNOME
+- XFCE
 
 SYSTEM REQUIREMENTS (MINIMUM):
 
