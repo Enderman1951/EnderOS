@@ -2,6 +2,5 @@ NAME="EnderOS Live"
 PRETTY_NAME="EnderOS Live"
 ID=arch
 BUILD_ID=rolling
-ANSI_COLOR="38;2;23;147;209"
+ANSI_COLOR="38;2;32;12;207"
 HOME_URL="https://github.com/Enderman1951/EnderOS"
-LOGO=archlinux-logo
