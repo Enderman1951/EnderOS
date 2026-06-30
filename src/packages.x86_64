@@ -34,6 +34,7 @@ grml-zsh-config
 grub
 hdparm
 hyperv
+hwloc
 intel-ucode
 irssi
 iw
