@@ -1,5 +1,5 @@
-NAME="EnderOS Live"
-PRETTY_NAME="EnderOS Live"
+NAME="EnderOS Plus"
+PRETTY_NAME="EnderOS Plus"
 ID=arch
 BUILD_ID=rolling
 ANSI_COLOR="38;2;32;12;207"
