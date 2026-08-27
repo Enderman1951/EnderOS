@@ -5,7 +5,6 @@ base
 bcachefs-tools
 bind
 bolt
-brltty
 broadcom-wl
 btrfs-progs
 cloud-init
@@ -115,6 +114,7 @@ xdg-utils
 xfsprogs
 xl2tpd
 zsh
+ca-certificates
 lightdm
 lightdm-gtk-greeter
 alacritty
@@ -140,7 +140,6 @@ noto-fonts
 noto-fonts-emoji
 xfce4
 xfce4-goodies
-gnome-tweaks
 capitaine-cursors
 papirus-icon-theme
 kdenlive
