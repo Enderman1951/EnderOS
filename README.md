@@ -25,6 +25,6 @@ SYSTEM REQUIREMENTS (MINIMUM):
 - 4GB of RAM
 - A USB Flash Drive/Portable SSD with atleast 8GB of storage
 
-For the full list of software included check out [included-software](https://github.com/Enderman1951/EnderOS/blob/master/included-software.md)
+For the full list of software included check out [included-software](https://github.com/Enderman1951/EnderOS/blob/master/included-software.txt)
 
-Download the ISO from [releases](https://github.com/Enderman1951/EnderOS/releases). You can also use [Archiso](https://wiki.archlinux.org/title/Archiso) to build the EnderOS ISO as of right now.
+Download the ISO from [releases](https://github.com/Enderman1951/EnderOS/releases). You can also use [Archiso](https://wiki.archlinux.org/title/Archiso) to build the EnderOS ISO.
