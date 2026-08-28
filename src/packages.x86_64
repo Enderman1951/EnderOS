@@ -30,7 +30,6 @@ gpart
 gpm
 gptfdisk
 grml-zsh-config
-grub
 hdparm
 hyperv
 hwloc
@@ -82,7 +81,6 @@ ppp
 pptpclient
 pv
 qemu-guest-agent
-refind
 rsync
 rxvt-unicode-terminfo
 screen

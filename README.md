@@ -15,6 +15,9 @@ By default, EnderOS does not retain any files or session data. To save work, you
 Default Desktop Envoirment
 - XFCE
 
+Bootloader
+- systemd-boot
+
 SYSTEM REQUIREMENTS (MINIMUM):
 
 - UEFI Enabled Motherboard (with secure boot turned off)
@@ -22,4 +25,6 @@ SYSTEM REQUIREMENTS (MINIMUM):
 - 4GB of RAM
 - A USB Flash Drive/Portable SSD with atleast 8GB of storage
 
-Download the ISO from [releases](https://github.com/Enderman1951/EnderOS/releases). You can also use [Archiso](https://wiki.archlinux.org/title/Archiso) to build the EnderOS ISO as of right now. (Releases coming soon)
+For the full list of software included check out [included-software](https://github.com/Enderman1951/EnderOS/blob/master/included-software.md)
+
+Download the ISO from [releases](https://github.com/Enderman1951/EnderOS/releases). You can also use [Archiso](https://wiki.archlinux.org/title/Archiso) to build the EnderOS ISO as of right now.
