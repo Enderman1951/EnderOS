@@ -3,8 +3,8 @@ EnderOS - Notable Utilities Documentation
 
 SYSTEM UTILITIES
 ----------------
-linux - The Linux kernel, core of the operating system
-linux-headers - Linux kernel headers for module compilation
+linux-rt - The Linux kernel, core of the operating system
+linux-rt-headers - Linux kernel headers for module compilation
 sudo - Execute commands with superuser privileges
 systemd-resolvconf - DNS resolution configuration tool
 mkinitcpio - Create initial ramdisk for Linux kernel
