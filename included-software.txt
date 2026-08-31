@@ -4,6 +4,7 @@ EnderOS - Notable Utilities Documentation
 SYSTEM UTILITIES
 ----------------
 linux - The Linux kernel, core of the operating system
+linux-headers - Linux kernel headers for module compilation
 sudo - Execute commands with superuser privileges
 systemd-resolvconf - DNS resolution configuration tool
 mkinitcpio - Create initial ramdisk for Linux kernel
@@ -150,8 +151,8 @@ DESKTOP ENVIRONMENT & THEMING
 ------------------------------
 xfce4 - Lightweight XFCE desktop environment
 xfce4-goodies - Additional XFCE components and plugins
-lightdm - Lightweight display manager (login screen)
-lightdm-gtk-greeter - GTK+ greeter for LightDM
+lightdm - Lightweight login manager (login screen)
+lightdm-slick-greeter - Modern greeter for LightDM
 gnome-disk-utility - GNOME Disk Utility for partition management
 gvfs - Virtual filesystem implementation for desktop
 papirus-icon-theme - Modern icon theme
@@ -173,7 +174,7 @@ linux-firmware - Firmware files for Linux kernel
 linux-firmware-marvell - Marvell wireless/network firmware
 sof-firmware - Sound Open Firmware
 b43-fwcutter - Broadcom B43 firmware extractor
-broadcom-wl - Broadcom wireless driver
+broadcom-wl-dkms - Broadcom wireless driver with DKMS support
 amd-ucode - AMD CPU microcode updates
 intel-ucode - Intel CPU microcode updates
 
