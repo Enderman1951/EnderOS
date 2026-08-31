@@ -5,7 +5,6 @@ base
 bcachefs-tools
 bind
 bolt
-broadcom-wl-dkms
 btrfs-progs
 cloud-init
 cryptsetup

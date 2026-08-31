@@ -174,7 +174,6 @@ linux-firmware - Firmware files for Linux kernel
 linux-firmware-marvell - Marvell wireless/network firmware
 sof-firmware - Sound Open Firmware
 b43-fwcutter - Broadcom B43 firmware extractor
-broadcom-wl-dkms - Broadcom wireless driver with DKMS support
 amd-ucode - AMD CPU microcode updates
 intel-ucode - Intel CPU microcode updates
 
