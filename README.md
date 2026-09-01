@@ -1,6 +1,6 @@
 Welcome to EnderOS
 
-<img src="https://i.imgur.com/31ci7oh.png" alt="EnderOS Running">
+<img src="https://i.imgur.com/yVijLb2.png" alt="EnderOS Running">
 
 EnderOS is a live, real time, Arch Linux based Linux Distro for users who need a portable, disposable, and privacy-respecting environment. EnderOS is general-purpose: you can code, edit media, take notes, and work in office apps. EnderOS can also be used in specialized applications due to its real-time kernel
 
