@@ -77,6 +77,8 @@ nfs-utils - NFS (Network File System) utilities
 open-iscsi - iSCSI initiator and administration utilities
 modemmanager - Mobile broadband modem manager
 ppp - Point-to-Point Protocol daemon
+linux-atm - Asynchronous Transfer Mode (ATM) utilities and libraries
+darkhttpd - Tiny static web server for local hosting
 
 REMOTE CONNECTIVITY
 -------------------
@@ -125,8 +127,9 @@ PRODUCTIVITY & OFFICE
 ---------------------
 neovim - Hyperextensible text editor (Vim fork)
 code - Visual Studio Code editor
+firefox - Web browser
 obsidian - Knowledge base and note-taking application
-libreoffice - Office suite 
+libreoffice - Office suite
 kdenlive - Video editing and compositing software
 gimp - GNU Image Manipulation Program
 keepassxc - Password manager and credential database
@@ -160,6 +163,10 @@ capitaine-cursors - Cursor theme
 noto-fonts - Google Noto font family
 noto-fonts-emoji - Emoji font support
 terminus-font - Fixed-width console font
+awesome - Lightweight tiling window manager
+picom - X11 compositor for transparency and effects
+rofi - Application launcher and window switcher
+cairo-dock - Desktop dock and panel
 
 VIRTUALIZATION & CLOUD
 ----------------------
@@ -179,7 +186,6 @@ intel-ucode - Intel CPU microcode updates
 
 BOOTABLE MEDIA TOOLS
 --------------------
-arch-install-scripts - Arch Linux installation scripts
 mkinitcpio-archiso - Archiso initramfs hooks
 mkinitcpio-nfs-utils - NFS utilities for initramfs
 livecd-sounds - Sounds for live boot media
