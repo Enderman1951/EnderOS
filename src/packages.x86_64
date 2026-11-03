@@ -138,9 +138,10 @@ noto-fonts-emoji
 xfce4
 xfce4-goodies
 awesome
-picom
+polybar
 rofi
-cairo-dock
+picom
+feh
 capitaine-cursors
 papirus-icon-theme
 kdenlive
