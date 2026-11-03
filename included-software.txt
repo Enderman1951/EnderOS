@@ -164,7 +164,7 @@ noto-fonts - Google Noto font family
 noto-fonts-emoji - Emoji font support
 terminus-font - Fixed-width console font
 awesome - Lightweight tiling window manager
-picom - X11 compositor for transparency and effecs
+picom - X11 compositor for transparency and effects
 rofi - Application launcher and window switcher
 polybar - Status bar for for tiling window managers
 feh - Image viewer and wallpaper setter
