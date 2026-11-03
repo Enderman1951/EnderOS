@@ -182,25 +182,7 @@ awful.screen.connect_for_each_screen(function(s)
     }
 
     -- Create the wibox
-    s.mywibox = awful.wibar({ position = "top", screen = s })
 
-    -- Add widgets to the wibox
-    s.mywibox:setup {
-        layout = wibox.layout.align.horizontal,
-        { -- Left widgets
-            layout = wibox.layout.fixed.horizontal,
-            mylauncher,
-            s.mytaglist,
-            s.mypromptbox,
-        },
-        s.mytasklist, -- Middle widget
-        { -- Right widgets
-            layout = wibox.layout.fixed.horizontal,
-            mykeyboardlayout,
-            wibox.widget.systray(),
-            mytextclock,
-        },
-    }
 end)
 -- }}}
 
@@ -477,6 +459,16 @@ awful.rules.rules = {
     { rule_any = {type = { "normal", "dialog" }
       }, properties = { titlebars_enabled = false }
     },
+   
+    -- Polybar rules
+    { rule = { class = "Polybar" },
+      properties = { 
+          border_width = 0, 
+          focusable = false,
+          floating = true,
+          above = true
+      } 
+    } 
 
     -- Set Firefox to always map on the tag named "2" on screen 1.
     -- { rule = { class = "Firefox" },
@@ -507,12 +499,14 @@ end)
 client.connect_signal("focus", function(c) c.border_color = beautiful.border_focus end)
 client.connect_signal("unfocus", function(c) c.border_color = beautiful.border_normal end)
 -- }}}
---
+
 -- Borders
 
--- Beautiful
 beautiful.useless_gap = 10  -- Adjust this value for thicker or thinner gaps
 beautiful.border_focus  = "#cccccc"  -- light grey when window is focused
 beautiful.border_normal = "#aaaaaa"  -- light grey when window is unfocused
 
 -- Autostart
+awful.spawn.with_shell("polybar")
+awful.spawn.with_shell("feh --bg-center .config/wallpapers/default.png") -- You can change the location to any image you want
+awful.spawn.with_shell("picom") -- Disable if it causes graphical problems
