@@ -1,4 +1,4 @@
 *.css linguist-detectable=false
 *.js linguist-detectable=false
 *.lua linguist-detectable=false
-*.scheme linguist-detectable=false
+*.scm linguist-detectable=false
