@@ -14,6 +14,7 @@ By default, EnderOS does not retain any files or session data. To save work, you
 
 Default Desktop Envoirment
 - XFCE
+- awesomewm (coming soon)
 
 Bootloader
 - systemd-boot
