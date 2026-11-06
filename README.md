@@ -2,7 +2,7 @@ Welcome to EnderOS
 
 <img src="https://i.imgur.com/yVijLb2.png" alt="EnderOS Running">
 
-EnderOS is a powerful, general-purpose, Arch Linux-based live distribution built to be the ultimate all-in-one Linux environment. Designed for versatility, productivity, and everyday use, EnderOS brings the power and flexibility of Arch Linux into a fully functional live system. Inspried by projects like MX Linux, MiniOS etc, EnderOS is the ultimate Arch-based live distro
+EnderOS is a powerful, general-purpose, Arch Linux based live distribution built to be the ultimate all-in-one live Linux environment. Designed for versatility, productivity, and everyday use, EnderOS brings the power and flexibility of Arch Linux into a fully functional live system. Inspried by projects like MX Linux, MiniOS etc, EnderOS is the ultimate Arch-based live distro. You can also use EnderOS to build our own custom Arch Linux Live USB by using the [Archiso](https://wiki.archlinux.org/title/Archiso) tool.
 
 By default, EnderOS does not retain any files or session data. To save work, you must use:
 
@@ -21,7 +21,7 @@ Bootloader
 
 SYSTEM REQUIREMENTS (MINIMUM):
 
-- UEFI Enabled Motherboard (with secure boot turned off)
+- Motherboard with a UEFI capable BIOS (with secure boot turned off)
 - 64 Bit x86 CPU
 - 4GB of RAM
 - A USB Flash Drive/Portable SSD with atleast 8GB of storage
