@@ -2,7 +2,7 @@ Welcome to EnderOS
 
 <img src="https://i.imgur.com/yVijLb2.png" alt="EnderOS Running">
 
-EnderOS is a live, real time, Arch Linux based Linux Distro for users who need a portable, disposable, and privacy-respecting environment. EnderOS is general-purpose: you can code, edit media, take notes, and work in office apps. EnderOS can also be used in specialized applications due to its real-time kernel
+EnderOS is a powerful, general-purpose, Arch Linux-based live distribution built to be the ultimate all-in-one Linux environment. Designed for versatility, productivity, and everyday use, EnderOS brings the power and flexibility of Arch Linux into a fully functional live system. Inspried by projects like MX Linux, MiniOS etc, EnderOS is the ultimate Arch-based live distro
 
 By default, EnderOS does not retain any files or session data. To save work, you must use:
 
